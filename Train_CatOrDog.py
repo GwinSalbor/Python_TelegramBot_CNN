@@ -7,7 +7,7 @@ from keras import initializers
 
 img_width, img_height = 150, 150
 train_data_dir = 'C:/Users/Yaroslav/Desktop/train'
-validation_data_dir = 'C:/Users/Yaroslav/Desktop/train'
+validation_data_dir = 'C:/Users/Yaroslav/Desktop/val'
 nb_train_samples = 20
 nb_validation_samples = 800
 epochs = 1
